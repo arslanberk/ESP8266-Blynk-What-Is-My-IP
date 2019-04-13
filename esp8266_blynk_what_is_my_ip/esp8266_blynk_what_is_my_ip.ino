@@ -23,7 +23,7 @@ void print_help(){
   terminal.printf("Commands:\n");
   terminal.printf("[+] /help  Print help.\n");
   terminal.printf("[+] /clear Clear terminal.\n");
-  terminal.printf("[+] /wifi  Clear wifi credentials.\n");
+  terminal.printf("[+] /wifi  Show wifi credentials.\n");
   terminal.printf("[+] /ip    Check public IP.\n");
   terminal.printf("[HELP] End\n");
   terminal.printf("-----------\n");
